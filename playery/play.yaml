@@ -1,0 +1,9 @@
+player:
+  name: adam gilchrist
+  nationality: australia
+  debut: 1997
+  matches: 230
+  runs: 9876
+  highest score: 172
+  batting avg: 39.87
+  strike rate: 99.74

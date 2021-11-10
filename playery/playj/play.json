@@ -1,0 +1,12 @@
+{
+    "player": {
+        "name": "adam gilchrist",
+        "nationality": "australia",
+        "debut": "1997",
+        "matches": "230",
+        "runs": "9876",
+        "batting avg": "39.78",
+        "strike rate": "99.87",
+        "highest score": "172"
+    }
+}

@@ -1,0 +1,13 @@
+<car>
+    <name>fordfigo</name>
+    <model>2019</model>
+    <fueltype>diesel</fueltype>
+    <seatingcapacity>five</seatingcapacity>
+    <color>white</color>
+    <enginedisplacement>1499</enginedisplacement>
+    <mileage>22</mileage>
+    <owner>
+        <firstname>sahil</firstname>
+        <lastname>hassan</lastname>
+    </owner>
+</car>

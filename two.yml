@@ -1,0 +1,12 @@
+car:
+  name: hondacity
+  model: 2019
+  fueltype: diesel
+  mileage: 20kmpl
+  seatingcapacity: five
+  enginedisplacement: 1499
+  color: black
+  owner:
+        firstname: saqib
+        lastname: khan
+  

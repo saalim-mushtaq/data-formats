@@ -1,0 +1,39 @@
+{
+    "cars": [
+        {
+            "name": "fordfigo",
+            "model": "2021",
+            "fueltype": "diesel",
+            "mileage": "22kmpl"
+        },
+        {
+            "name": "hondacity",
+            "model": "2020",
+            "fueltype": "petrol",
+            "mileage": "20kmpl"
+        },
+        {
+            "name": "hondacivic",
+            "model": "2019",
+            "fueltype": "petrol",
+            "mileage": "18kmpl"
+        },
+        {
+            "name": "hyundaisantro",
+            "model": "2018",
+            "fueltype": "diesel",
+            "mileage": "21kmpl"
+        }
+    ]
+
+
+}
+
+
+
+
+
+
+    
+    
+    

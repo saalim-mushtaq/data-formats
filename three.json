@@ -1,0 +1,14 @@
+{
+    "car": {
+        "name": "hyundaiverna",
+        "model": "2018",
+        "mileage": "21kmpl",
+        "fueltype": "diesel",
+        "enginedisplacement": "1499",
+        "color": "red",
+        "owner": {
+            "firstname": "kamran",
+            "lastname": "shahid"
+        }
+    }
+}

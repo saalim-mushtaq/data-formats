@@ -1,0 +1,12 @@
+cars:
+ - name: "fordfigo"
+   mileage: 21
+   model: 2021
+   fueltype: "diesel"
+   seatingcapacity: "five"
+
+ - name: "hondacity" 
+   mileage: 16
+   model: 2019
+   fueltype: "petrol"
+   seatingcapacity: "five" 
